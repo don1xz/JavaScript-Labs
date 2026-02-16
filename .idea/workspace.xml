@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="874ad0c0-93c7-4094-a26d-796a64e0298f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repeatAll" beforeDir="false" afterPath="$PROJECT_DIR$/../repeatAll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../theme-switcher" beforeDir="false" afterPath="$PROJECT_DIR$/../theme-switcher" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +16,7 @@
   <component name="CopilotPersistence">
     <persistenceIdMap>
       <entry key="_C:/Users/don1x/JavaScript-Labs" value="39kor9Yv2VEWDEFgjzQUQBZpMjv" />
+      <entry key="_C:/Users/don1x/WebstormProjects/JavaScript-Labs" value="39kqpT0norf0rzAFtDTf06zcPNX" />
       <entry key="_C:/Users/don1x/WebstormProjects/Tcaci_Eduard_Lab1" value="39keADwJHteRWpaLiMAOzdB1Zun" />
     </persistenceIdMap>
   </component>
@@ -27,7 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -35,12 +36,12 @@
     &quot;assignee&quot;: &quot;don1xz&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:don1xz/JavaScript-Labs.git",
-    "accountId": "13e25b7b-a637-413b-a44b-d42703c1fba9"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:don1xz/JavaScript-Labs.git&quot;,
+    &quot;accountId&quot;: &quot;13e25b7b-a637-413b-a44b-d42703c1fba9&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -60,10 +61,10 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "Laboratory1",
+    "git-widget-placeholder": "Laboratory__1",
     "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/don1x/JavaScript-Labs",
+    "last_opened_file_path": "C:/Users/don1x/WebstormProjects/JavaScript-Labs",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -94,6 +95,7 @@
       <updated>1771244351193</updated>
       <workItem from="1771244352281" duration="4000000" />
       <workItem from="1771249621909" duration="682000" />
+      <workItem from="1771250599454" duration="382000" />
     </task>
     <servers />
   </component>
