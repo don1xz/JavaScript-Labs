@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>пятая лаба</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Учёт транзакций</h1>
+
+    <div class="card">
+      <h2>Новая транзакция</h2>
+      <form id="transaction-form">
+        <div class="form-grid">
+          <div>
+            <label for="amount">Сумма (леи)</label>
+            <input type="number" id="amount" placeholder="500 или 1200" step="0.01" />
+          </div>
+          <div>
+            <label for="category">Категория</label>
+            <select id="category">
+              <option value="">— выберите —</option>
+              <option value="Еда">Еда</option>
+              <option value="Транспорт">Транспорт</option>
+              <option value="Развлечения">Развлечения</option>
+              <option value="Зарплата">Зарплата</option>
+              <option value="Здоровье">Здоровье</option>
+              <option value="Прочее">Прочее</option>
+            </select>
+          </div>
+          <div class="full">
+            <label for="description">Описание</label>
+            <textarea id="description" placeholder="Подробное описание транзакции..."></textarea>
+          </div>
+        </div>
+        <div id="form-error" class="error"></div>
+        <button type="submit" class="btn" style="margin-top:12px">Добавить</button>
+      </form>
+    </div>
+
+    <div class="card">
+      <h2>Транзакции</h2>
+      <table id="transaction-table">
+        <thead>
+          <tr>
+            <th>Дата и время</th>
+            <th>Категория</th>
+            <th>Описание</th>
+            <th>Действие</th>
+          </tr>
+        </thead>
+        <tbody id="transaction-body"></tbody>
+      </table>
+      <span id="total" class="total"></span>
+    </div>
+
+    <div class="card">
+      <h2>Детали транзакции</h2>
+      <div id="detail">Нажмите на строку, чтобы увидеть подробности.</div>
+    </div>
+  </div>
+
+  <script type="module" src="src/index.js"></script>
+</body>
+</html>
