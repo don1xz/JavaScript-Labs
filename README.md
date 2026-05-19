@@ -1,9 +1,7 @@
 # Индивидуальная работа по JavaScript: Веб-приложение "To-Do List"
 
-## Автор проекта
-Студент I-го курса Государственного Университета Молдовы (USM), направления «Прикладная информатика».
-* **ФИО:** [Твое Имя и Фамилия]
-* **Группа:** [Номер группы, например, IA-251]
+* **Tcaci Eduard** 
+* **Группа: IA2504** 
 
 ---
 
@@ -56,6 +54,6 @@ todoForm.addEventListener('submit', (event) => {
 });
 
 Список используемых источников:
-https://learn.javascript.ru
+`https://learn.javascript.ru`
 
-Документация MDN Web Docs (Работа с DOM и ES6 Модули) — https://developer.mozilla.org
+Документация MDN Web Docs (Работа с DOM и ES6 Модули) — `https://developer.mozilla.org`
